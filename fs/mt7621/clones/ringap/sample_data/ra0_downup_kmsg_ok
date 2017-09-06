@@ -1,0 +1,211 @@
+<4>RX DESC a3eb6000  size = 2048
+<4>RTMP_TimerListAdd: add timer obj c009b0a8!
+<4>RTMP_TimerListAdd: add timer obj c0064780!
+<4>RTMP_TimerListAdd: add timer obj c0066fcc!
+<4>RTMP_TimerListAdd: add timer obj c006708c!
+<4>RTMP_TimerListAdd: add timer obj c006714c!
+<4>RTMP_TimerListAdd: add timer obj c006720c!
+<4>RTMP_TimerListAdd: add timer obj c00672cc!
+<4>RTMP_TimerListAdd: add timer obj c006738c!
+<4>RTMP_TimerListAdd: add timer obj c006744c!
+<4>RTMP_TimerListAdd: add timer obj c006750c!
+<4>RTMP_TimerListAdd: add timer obj c00675cc!
+<4>RTMP_TimerListAdd: add timer obj c006768c!
+<4>RTMP_TimerListAdd: add timer obj c006774c!
+<4>RTMP_TimerListAdd: add timer obj c006780c!
+<4>RTMP_TimerListAdd: add timer obj c00678cc!
+<4>RTMP_TimerListAdd: add timer obj c006798c!
+<4>RTMP_TimerListAdd: add timer obj c0067a4c!
+<4>RTMP_TimerListAdd: add timer obj c0067b0c!
+<4>RTMP_TimerListAdd: add timer obj c0064754!
+<4>RTMP_TimerListAdd: add timer obj c0066fa0!
+<4>RTMP_TimerListAdd: add timer obj c0067060!
+<4>RTMP_TimerListAdd: add timer obj c0067120!
+<4>RTMP_TimerListAdd: add timer obj c00671e0!
+<4>RTMP_TimerListAdd: add timer obj c00672a0!
+<4>RTMP_TimerListAdd: add timer obj c0067360!
+<4>RTMP_TimerListAdd: add timer obj c0067420!
+<4>RTMP_TimerListAdd: add timer obj c00674e0!
+<4>RTMP_TimerListAdd: add timer obj c00675a0!
+<4>RTMP_TimerListAdd: add timer obj c0067660!
+<4>RTMP_TimerListAdd: add timer obj c0067720!
+<4>RTMP_TimerListAdd: add timer obj c00677e0!
+<4>RTMP_TimerListAdd: add timer obj c00678a0!
+<4>RTMP_TimerListAdd: add timer obj c0067960!
+<4>RTMP_TimerListAdd: add timer obj c0067a20!
+<4>RTMP_TimerListAdd: add timer obj c0067ae0!
+<4>RTMP_TimerListAdd: add timer obj c0064728!
+<4>RTMP_TimerListAdd: add timer obj c0066ff8!
+<4>RTMP_TimerListAdd: add timer obj c00670b8!
+<4>RTMP_TimerListAdd: add timer obj c0067178!
+<4>RTMP_TimerListAdd: add timer obj c0067238!
+<4>RTMP_TimerListAdd: add timer obj c00672f8!
+<4>RTMP_TimerListAdd: add timer obj c00673b8!
+<4>RTMP_TimerListAdd: add timer obj c0067478!
+<4>RTMP_TimerListAdd: add timer obj c0067538!
+<4>RTMP_TimerListAdd: add timer obj c00675f8!
+<4>RTMP_TimerListAdd: add timer obj c00676b8!
+<4>RTMP_TimerListAdd: add timer obj c0067778!
+<4>RTMP_TimerListAdd: add timer obj c0067838!
+<4>RTMP_TimerListAdd: add timer obj c00678f8!
+<4>RTMP_TimerListAdd: add timer obj c00679b8!
+<4>RTMP_TimerListAdd: add timer obj c0067a78!
+<4>RTMP_TimerListAdd: add timer obj c0067b38!
+<4>RTMP_TimerListAdd: add timer obj c000b0b4!
+<4>RTMP_TimerListAdd: add timer obj c000aca8!
+<4>RTMP_TimerListAdd: add timer obj c000b084!
+<4>RTMP_TimerListAdd: add timer obj c000b42c!
+<4>RTMP_TimerListAdd: add timer obj c000b17c!
+<4>RTMP_TimerListAdd: add timer obj c000b1ac!
+<4>RTMP_TimerListAdd: add timer obj c000b36c!
+<4>RTMP_TimerListAdd: add timer obj c000b39c!
+<4>RTMP_TimerListAdd: add timer obj c000e364!
+<4>RTMP_TimerListAdd: add timer obj c000df58!
+<4>RTMP_TimerListAdd: add timer obj c000e334!
+<4>RTMP_TimerListAdd: add timer obj c000e6dc!
+<4>RTMP_TimerListAdd: add timer obj c000e42c!
+<4>RTMP_TimerListAdd: add timer obj c000e45c!
+<4>RTMP_TimerListAdd: add timer obj c000e61c!
+<4>RTMP_TimerListAdd: add timer obj c000e64c!
+<4>RTMP_TimerListAdd: add timer obj c0011614!
+<4>RTMP_TimerListAdd: add timer obj c0011208!
+<4>RTMP_TimerListAdd: add timer obj c00115e4!
+<4>RTMP_TimerListAdd: add timer obj c001198c!
+<4>RTMP_TimerListAdd: add timer obj c00116dc!
+<4>RTMP_TimerListAdd: add timer obj c001170c!
+<4>RTMP_TimerListAdd: add timer obj c00118cc!
+<4>RTMP_TimerListAdd: add timer obj c00118fc!
+<4>RTMP_TimerListAdd: add timer obj c00148c4!
+<4>RTMP_TimerListAdd: add timer obj c00144b8!
+<4>RTMP_TimerListAdd: add timer obj c0014894!
+<4>RTMP_TimerListAdd: add timer obj c0014c3c!
+<4>RTMP_TimerListAdd: add timer obj c001498c!
+<4>RTMP_TimerListAdd: add timer obj c00149bc!
+<4>RTMP_TimerListAdd: add timer obj c0014b7c!
+<4>RTMP_TimerListAdd: add timer obj c0014bac!
+<4>RTMP_TimerListAdd: add timer obj c0017b74!
+<4>RTMP_TimerListAdd: add timer obj c0017768!
+<4>RTMP_TimerListAdd: add timer obj c0017b44!
+<4>RTMP_TimerListAdd: add timer obj c0017eec!
+<4>RTMP_TimerListAdd: add timer obj c0017c3c!
+<4>RTMP_TimerListAdd: add timer obj c0017c6c!
+<4>RTMP_TimerListAdd: add timer obj c0017e2c!
+<4>RTMP_TimerListAdd: add timer obj c0017e5c!
+<4>RTMP_TimerListAdd: add timer obj c001ae24!
+<4>RTMP_TimerListAdd: add timer obj c001aa18!
+<4>RTMP_TimerListAdd: add timer obj c001adf4!
+<4>RTMP_TimerListAdd: add timer obj c001b19c!
+<4>RTMP_TimerListAdd: add timer obj c001aeec!
+<4>RTMP_TimerListAdd: add timer obj c001af1c!
+<4>RTMP_TimerListAdd: add timer obj c001b0dc!
+<4>RTMP_TimerListAdd: add timer obj c001b10c!
+<4>RTMP_TimerListAdd: add timer obj c001e0d4!
+<4>RTMP_TimerListAdd: add timer obj c001dcc8!
+<4>RTMP_TimerListAdd: add timer obj c001e0a4!
+<4>RTMP_TimerListAdd: add timer obj c001e44c!
+<4>RTMP_TimerListAdd: add timer obj c001e19c!
+<4>RTMP_TimerListAdd: add timer obj c001e1cc!
+<4>RTMP_TimerListAdd: add timer obj c001e38c!
+<4>RTMP_TimerListAdd: add timer obj c001e3bc!
+<4>RTMP_TimerListAdd: add timer obj c0021384!
+<4>RTMP_TimerListAdd: add timer obj c0020f78!
+<4>RTMP_TimerListAdd: add timer obj c0021354!
+<4>RTMP_TimerListAdd: add timer obj c00216fc!
+<4>RTMP_TimerListAdd: add timer obj c002144c!
+<4>RTMP_TimerListAdd: add timer obj c002147c!
+<4>RTMP_TimerListAdd: add timer obj c002163c!
+<4>RTMP_TimerListAdd: add timer obj c002166c!
+<4>RTMP_TimerListAdd: add timer obj c0066b84!
+<4>RTMP_TimerListAdd: add timer obj c0066778!
+<4>RTMP_TimerListAdd: add timer obj c0066b54!
+<4>RTMP_TimerListAdd: add timer obj c0066efc!
+<4>RTMP_TimerListAdd: add timer obj c0066c4c!
+<4>RTMP_TimerListAdd: add timer obj c0066c7c!
+<4>RTMP_TimerListAdd: add timer obj c0066bb4!
+<4>RTMP_TimerListAdd: add timer obj c0066be4!
+<4>RTMP_TimerListAdd: add timer obj c0066c14!
+<4>RTMP_TimerListAdd: add timer obj c0071a14!
+<4>RTMP_TimerListAdd: add timer obj c0071b30!
+<4>RTMP_TimerListAdd: add timer obj c0071a40!
+<4>RTMP_TimerListAdd: add timer obj c0068cb4!
+<4>RTMP_TimerListAdd: add timer obj c0008534!
+<4>RTMP_TimerListAdd: add timer obj c000b7e4!
+<4>RTMP_TimerListAdd: add timer obj c000ea94!
+<4>RTMP_TimerListAdd: add timer obj c0011d44!
+<4>RTMP_TimerListAdd: add timer obj c0014ff4!
+<4>RTMP_TimerListAdd: add timer obj c00182a4!
+<4>RTMP_TimerListAdd: add timer obj c001b554!
+<4>RTMP_TimerListAdd: add timer obj c001e804!
+<4>RTMP_TimerListAdd: add timer obj c00689c8!
+<4>RTMP_TimerListAdd: add timer obj c0068d1c!
+<4>APSDCapable[0]=1
+<4>APSDCapable[1]=1
+<4>APSDCapable[2]=1
+<4>APSDCapable[3]=1
+<4>APSDCapable[4]=1
+<4>APSDCapable[5]=1
+<4>APSDCapable[6]=1
+<4>APSDCapable[7]=1
+<4>APSDCapable[8]=1
+<4>APSDCapable[9]=1
+<4>APSDCapable[10]=1
+<4>APSDCapable[11]=1
+<4>APSDCapable[12]=1
+<4>APSDCapable[13]=1
+<4>APSDCapable[14]=1
+<4>APSDCapable[15]=1
+<4>default ApCliAPSDCapable[0]=1
+<4>Key1Str is Invalid key length(0) or Type(1)
+<4>Key1Str is Invalid key length(0) or Type(0)
+<4>Key1Str is Invalid key length(0) or Type(0)
+<4>Key1Str is Invalid key length(0) or Type(0)
+<4>Key2Str is Invalid key length(0) or Type(1)
+<4>Key2Str is Invalid key length(0) or Type(0)
+<4>Key2Str is Invalid key length(0) or Type(0)
+<4>Key2Str is Invalid key length(0) or Type(0)
+<4>Key3Str is Invalid key length(0) or Type(1)
+<4>Key3Str is Invalid key length(0) or Type(0)
+<4>Key3Str is Invalid key length(0) or Type(0)
+<4>Key3Str is Invalid key length(0) or Type(0)
+<4>Key4Str is Invalid key length(0) or Type(1)
+<4>Key4Str is Invalid key length(0) or Type(0)
+<4>Key4Str is Invalid key length(0) or Type(0)
+<4>Key4Str is Invalid key length(0) or Type(0)
+<4>1. Phy Mode = 9
+<4>2. Phy Mode = 9
+<4>E2PROM: D0 target power=0xff20 
+<4>E2PROM: 40 MW Power Delta= 0 
+<4>3. Phy Mode = 9
+<4>RTMP_TimerListAdd: add timer obj c0008128!
+<4>AntCfgInit: primary/secondary ant 0/1
+<4>Initialize RF Central Registers for E2 !!!
+<4>Initialize RF Central Registers for E3 !!!
+<4>Initialize RF Channel Registers for E2 !!!
+<4>Initialize RF Channel Registers for E3 !!!
+<4>Initialize RF DCCal Registers for E2 !!!
+<4>Initialize RF DCCal Registers for E3 !!!
+<4>Change as GPIO Mode(0x181715)
+<4>D1 = 0, D2 = 9, CalCode = 21 !!!
+<4>RT6352_Temperature_Init : BBPR49 = 0x0
+<4>RT6352_Temperature_Init : TemperatureRef25C = 0xfffffff6
+<4>Current Temperature from BBP_R49=0xfffffffe
+<4> TX BW Filter Calibration !!!
+<4> RX BW Filter Calibration !!!
+<4>LOFT Calibration Done!
+<4>IQCalibration Start!
+<4>IQCalibration Done! CH = 0, (gain= 0, phase=3f)
+<4>IQCalibration Start!
+<4>IQCalibration Done! CH = 1, (gain= 1, phase=3e)
+<4>TX IQ Calibration Done!
+<4>Change as Normal Mode(0x81715)
+<4>After Change, now GPIO_MODE value is 0x81715
+<4>RT6352_Init_ExtPA_ExtLNA: Enable Ext-PA. init MAC 
+<4>RT6352_Init_ExtPA_ExtLNA: Enable Ext-LNA. 
+<4>RT6352_Init_ExtPA_ExtLNA: Enable Ext-PA. 
+<4>RT6352_Init_ExtPA_ExtLNA: Init Ext-LNA BBP. 
+<4>RT6352_Init_ExtPA_ExtLNA: Init Ext-PA MAC. 
+<4>MCS Set = ff ff 00 00 01
+<4>RTMP_TimerListAdd: add timer obj c00692cc!
+<4>Main bssid = 00:0c:43:76:40:58
+<4><==== rt28xx_init, Status=0
+<4>0x1300 = 00064380
