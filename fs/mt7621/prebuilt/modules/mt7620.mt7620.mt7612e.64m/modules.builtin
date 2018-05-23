@@ -1,11 +1,3 @@
-kernel/fs/nls/nls_base.ko
-kernel/fs/nls/nls_cp437.ko
-kernel/fs/nls/nls_cp932.ko
-kernel/fs/nls/nls_euc-jp.ko
-kernel/fs/nls/nls_cp936.ko
-kernel/fs/nls/nls_cp949.ko
-kernel/fs/nls/nls_cp950.ko
-kernel/fs/nls/nls_utf8.ko
 kernel/fs/squashfs.efm/squashfs.ko
 kernel/crypto/crypto.ko
 kernel/crypto/crypto_wq.ko
